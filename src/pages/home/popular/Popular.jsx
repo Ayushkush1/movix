@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import ContentWrapper from "../../../components/contentWrapper/ contentWrapper";
+import ContentWrapper from "../../../components/contentWrapper/contentWrapper";
 
 import SwitchTabs from "../../../components/switchTabs/SwitchTabs";
 
